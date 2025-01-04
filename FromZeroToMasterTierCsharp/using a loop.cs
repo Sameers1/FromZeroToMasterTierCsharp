@@ -10,7 +10,10 @@ namespace FromZeroToMasterTierCsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hellow world");
+            Console.WriteLine("hello");
+
+            Class1.r();
+
         }
     }
 }
