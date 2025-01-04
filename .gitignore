@@ -398,3 +398,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.vs
+/.vs/
+/.vs/FromZeroToMasterTierCsharp/v17/DocumentLayout.backup.json
+/.vs/FromZeroToMasterTierCsharp/v17/DocumentLayout.json
