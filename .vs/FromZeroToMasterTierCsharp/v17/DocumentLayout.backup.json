@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Sameers1\\FromZeroToMasterTierCsharp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Program.cs",
+              "RelativeToolTip": "FromZeroToMasterTierCsharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:06:49.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
