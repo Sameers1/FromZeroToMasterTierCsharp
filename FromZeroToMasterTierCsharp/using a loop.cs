@@ -12,8 +12,7 @@ namespace FromZeroToMasterTierCsharp
         {
             Console.WriteLine("hello");
 
-            Class1.r();
-
+            SwapTwoSwapTwoNumbers.SwapTwoNumber();
         }
     }
 }
