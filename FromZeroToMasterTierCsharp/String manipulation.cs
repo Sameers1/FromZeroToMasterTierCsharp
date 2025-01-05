@@ -24,6 +24,8 @@ namespace FromZeroToMasterTierCsharp
                 }
             }
             Console.WriteLine(word);
+            Console.WriteLine(word);
+
         }
     }
 
