@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LowUpCase.cs" />
     <Compile Include="Swap Two Numbers.cs" />
-    <Compile Include="using a loop.cs" />
+    <Compile Include="Pro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

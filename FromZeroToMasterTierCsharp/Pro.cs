@@ -10,9 +10,10 @@ namespace FromZeroToMasterTierCsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
+            //Console.WriteLine("hello");
 
-            SwapTwoSwapTwoNumbers.SwapTwoNumber();
+            //SwapTwoSwapTwoNumbers.SwapTwoNumber();
+            LowUpCase.LowUpCase1();        
         }
     }
 }

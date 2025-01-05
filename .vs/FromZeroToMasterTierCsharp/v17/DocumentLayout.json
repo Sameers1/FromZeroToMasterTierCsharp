@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\swap two numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\swap two numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\specified operations results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\specified operations results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\lowupcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\lowupcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Specified Operations Results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FromZeroToMasterTierCsharp\\Specified Operations Results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\fromzerotomastertiercsharp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FromZeroToMasterTierCsharp\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FromZeroToMasterTierCsharp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +39,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Pro.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Pro.cs",
+              "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Pro.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Pro.cs",
+              "RelativeToolTip": "FromZeroToMasterTierCsharp\\Pro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:01:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LowUpCase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\LowUpCase.cs",
+              "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\LowUpCase.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\LowUpCase.cs",
+              "RelativeToolTip": "FromZeroToMasterTierCsharp\\LowUpCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:51:34.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Swap Two Numbers.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Swap Two Numbers.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Swap Two Numbers.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Swap Two Numbers.cs",
               "RelativeToolTip": "FromZeroToMasterTierCsharp\\Swap Two Numbers.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIAwwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T14:54:23.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Specified Operations Results.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Specified Operations Results.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Specified Operations Results.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Specified Operations Results.cs",
               "RelativeToolTip": "FromZeroToMasterTierCsharp\\Specified Operations Results.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T14:46:36.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T14:46:36.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Class1.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Class1.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Class1.cs",
               "RelativeToolTip": "FromZeroToMasterTierCsharp\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T13:36:52.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T13:36:52.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Program.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Program.cs",
               "RelativeToolTip": "FromZeroToMasterTierCsharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T13:15:14.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T13:15:14.128Z"
             }
           ]
         }
