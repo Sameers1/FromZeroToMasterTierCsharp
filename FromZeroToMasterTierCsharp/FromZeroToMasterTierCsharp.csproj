@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="String manipulation.cs" />
+    <Compile Include="OddNumbers.cs" />
     <Compile Include="LowUpCase.cs" />
     <Compile Include="Swap Two Numbers.cs" />
     <Compile Include="Pro.cs" />
