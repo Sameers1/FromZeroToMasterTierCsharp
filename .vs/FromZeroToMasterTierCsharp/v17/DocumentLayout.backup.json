@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\largest and lowest of three integers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\largest and lowest of three integers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\check \u0027w\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\check \u0027w\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\largest and lowest of three integers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\largest and lowest of three integers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\remove string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Largest and Lowest of Three Integers.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",
-              "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",
-              "RelativeToolTip": "FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwC8AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T12:18:47.599Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -45,14 +36,28 @@
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Pro.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Pro.cs",
               "RelativeToolTip": "FromZeroToMasterTierCsharp\\Pro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T12:18:40.741Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Check \u0027w\u0027.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Check \u0027w\u0027.cs",
+              "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Check \u0027w\u0027.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Check \u0027w\u0027.cs",
+              "RelativeToolTip": "FromZeroToMasterTierCsharp\\Check \u0027w\u0027.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:26:32.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Remove String.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Remove String.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Remove String.cs",
@@ -61,6 +66,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T12:04:58.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Largest and Lowest of Three Integers.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",
+              "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",
+              "RelativeToolTip": "FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:18:47.599Z",
               "EditorCaption": ""
             }
           ]

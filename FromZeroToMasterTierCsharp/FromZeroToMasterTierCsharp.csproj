@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Check %27w%27.cs" />
     <Compile Include="Remove String.cs" />
     <Compile Include="String manipulation.cs" />
     <Compile Include="OddNumbers.cs" />
