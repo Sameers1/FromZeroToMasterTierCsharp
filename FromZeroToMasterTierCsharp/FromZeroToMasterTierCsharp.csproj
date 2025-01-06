@@ -43,10 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Remove String.cs" />
     <Compile Include="String manipulation.cs" />
     <Compile Include="OddNumbers.cs" />
     <Compile Include="LowUpCase.cs" />
-    <Compile Include="Swap Two Numbers.cs" />
+    <Compile Include="Swap Two Numbers - Copy.cs" />
+    <Compile Include="Largest and Lowest of Three Integers.cs" />
     <Compile Include="Pro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

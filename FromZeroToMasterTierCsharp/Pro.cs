@@ -15,7 +15,9 @@ namespace FromZeroToMasterTierCsharp
             //SwapTwoSwapTwoNumbers.SwapTwoNumber();
             //LowUpCase.LowUpCase1();
             //OddNumbers.OddNumber();
-            StringManipulations.stringmanipulation();
+            //StringManipulations.stringmanipulation();
+            //RemoveStrings.RemoveString();
+            LargestAndLowests.LargestAndLowest();
         }
     }
 }
