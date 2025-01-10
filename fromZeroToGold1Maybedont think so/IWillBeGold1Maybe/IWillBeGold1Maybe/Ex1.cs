@@ -10,7 +10,7 @@ namespace IWillBeGold1Maybe
 
 			Console.WriteLine("First 10 Natural Numbers:");
 
-			for(ftn = 1; ftn < 11; ftn++)
+			for(ftn = 1; ftn < 10; ftn++)
 			{
 				Console.Write(" " + ftn);
 			}

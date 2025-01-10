@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace IWillBeGold1Maybe
 {
-    internal class Ex2
+    internal class Ex3
     {
         public static void Run()
         {
             int ftn;
             int sftn = 0;
+            Console.WriteLine("Enter the Length:");
+            int lth = Convert.ToInt32(Console.ReadLine());
 
-            for (ftn = 1; ftn < 10; ftn++)
+            for (ftn = 1; ftn < lth; ftn++)
             {
                 sftn = sftn + ftn;
                 Console.Write(" " + ftn);
@@ -22,4 +24,3 @@ namespace IWillBeGold1Maybe
         }
     }
 }
-
