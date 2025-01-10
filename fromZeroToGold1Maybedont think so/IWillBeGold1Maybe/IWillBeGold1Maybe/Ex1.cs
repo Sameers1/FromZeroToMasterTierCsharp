@@ -6,8 +6,14 @@ namespace MyApplication
 	{
 		public static void Run()
 		{
-			Console.Write("Hello");
-            Console.WriteLine(" Hashim Waleed");
+			int ftn;
+
+			Console.WriteLine("First 10 Natural Numbers:");
+
+			for(ftn = 1; ftn < 11; ftn++)
+			{
+				Console.Write(" " + ftn);
+			}
         }
 	}
 }
