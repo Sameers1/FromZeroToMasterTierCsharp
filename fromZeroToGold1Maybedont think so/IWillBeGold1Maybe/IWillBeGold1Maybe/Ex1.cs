@@ -1,6 +1,6 @@
 using System;
 
-namespace MyApplication
+namespace IWillBeGold1Maybe
 {
 	class Ex1
 	{

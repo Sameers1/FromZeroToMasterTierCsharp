@@ -1,10 +1,11 @@
 ﻿namespace IWillBeGold1Maybe
 {
-    internal class Program
+    internal class Exercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //IWillBeGold1Maybe.Ex1.Run();
+            IWillBeGold1Maybe.Ex2.Run();
         }
     }
 }
