@@ -18,7 +18,9 @@ namespace FromZeroToMasterTierCsharp
             //StringManipulations.stringmanipulation();
             //RemoveStrings.RemoveString();
             //LargestAndLowests.LargestAndLowest();
-            CheckWs.CheckW();
+            //CheckWs.CheckW();
+            //Stars.Star();
+            Factorials.Factorial();
 
         }
     }
