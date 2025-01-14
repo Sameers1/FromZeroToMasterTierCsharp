@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\fromzerotomastertiercsharp\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\read10sumavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\read10sumavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\arayytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\arayytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\fromzerotomastertiercsharp\\remove string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\remove string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|c:\\users\\admin\\source\\repos\\fromzerotomastertiercsharp\\fromzerotomastertiercsharp\\month days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\month days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\fromzerotomastertiercsharp\\check \u0027w\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\check \u0027w\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\fromzerotomastertiercsharp\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\fromzerotomastertiercsharp\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\fromzerotomastertiercsharp\\largest and lowest of three integers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\largest and lowest of three integers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\fromzerotomastertiercsharp\\check \u0027w\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60637316-324F-4420-A905-6BFF29182BCA}|FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp.csproj|solutionrelative:fromzerotomastertiercsharp\\check \u0027w\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\ArayyTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FromZeroToMasterTierCsharp\\ArayyTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pro.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Pro.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Pro.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Pro.cs*",
-              "RelativeToolTip": "FromZeroToMasterTierCsharp\\Pro.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Pro.cs",
+              "RelativeToolTip": "FromZeroToMasterTierCsharp\\Pro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T12:18:40.741Z",
               "IsPinned": true,
@@ -56,12 +64,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Read10SumAvg.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Read10SumAvg.cs",
+              "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Read10SumAvg.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Read10SumAvg.cs",
+              "RelativeToolTip": "FromZeroToMasterTierCsharp\\Read10SumAvg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:00:16.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Month days.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Month days.cs",
+              "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Month days.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Month days.cs",
+              "RelativeToolTip": "FromZeroToMasterTierCsharp\\Month days.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:51:05.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ArayyTest.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\ArayyTest.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\ArayyTest.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\ArayyTest.cs*",
-              "RelativeToolTip": "FromZeroToMasterTierCsharp\\ArayyTest.cs*",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\ArayyTest.cs",
+              "RelativeToolTip": "FromZeroToMasterTierCsharp\\ArayyTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T18:35:47.229Z",
@@ -69,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Factorial.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Factorial.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Factorial.cs",
@@ -82,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Star.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Star.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Star.cs",
@@ -95,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Check \u0027w\u0027.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Check \u0027w\u0027.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Check \u0027w\u0027.cs",
@@ -108,20 +142,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Remove String.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Remove String.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Remove String.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Remove String.cs",
               "RelativeToolTip": "FromZeroToMasterTierCsharp\\Remove String.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T12:04:58.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Largest and Lowest of Three Integers.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FromZeroToMasterTierCsharp\\FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",
               "RelativeDocumentMoniker": "FromZeroToMasterTierCsharp\\Largest and Lowest of Three Integers.cs",

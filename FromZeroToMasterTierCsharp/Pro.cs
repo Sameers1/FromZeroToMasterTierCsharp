@@ -21,7 +21,8 @@ namespace FromZeroToMasterTierCsharp
             //CheckWs.CheckW();
             //Stars.Star();
             //Factorials.Factorial();
-            casestudy.casestudy1();
+            //casestudy.casestudy1();
+            ReadSumAvgs.ReadSumAvg();
 
         }
     }

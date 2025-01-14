@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Check %27w%27.cs" />
     <Compile Include="Factorial.cs" />
+    <Compile Include="Month days.cs" />
+    <Compile Include="Read10SumAvg.cs" />
     <Compile Include="Star.cs" />
     <Compile Include="Remove String.cs" />
     <Compile Include="String manipulation.cs" />
