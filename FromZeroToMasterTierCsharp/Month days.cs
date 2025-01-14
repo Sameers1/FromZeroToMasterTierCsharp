@@ -8,7 +8,7 @@ namespace FromZeroToMasterTierCsharp
 {
     public class casestudy  // Declaration of the exercise23 class
     {
-        static void casestudy1(string[] args)  // Main method, entry point of the program
+        public static void casestudy1()  // Main method, entry point of the program
         {
             int monno;  // Declaration of a variable to store the month number
 

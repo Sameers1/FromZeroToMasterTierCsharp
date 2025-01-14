@@ -20,7 +20,8 @@ namespace FromZeroToMasterTierCsharp
             //LargestAndLowests.LargestAndLowest();
             //CheckWs.CheckW();
             //Stars.Star();
-            Factorials.Factorial();
+            //Factorials.Factorial();
+            casestudy.casestudy1();
 
         }
     }
