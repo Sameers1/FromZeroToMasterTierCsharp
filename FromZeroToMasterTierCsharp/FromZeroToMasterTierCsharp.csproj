@@ -43,8 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="using a loop.cs" />
+    <Compile Include="Check %27w%27.cs" />
+    <Compile Include="Factorial.cs" />
+    <Compile Include="Month days.cs" />
+    <Compile Include="Read10SumAvg.cs" />
+    <Compile Include="Star.cs" />
+    <Compile Include="Remove String.cs" />
+    <Compile Include="String manipulation.cs" />
+    <Compile Include="OddNumbers.cs" />
+    <Compile Include="LowUpCase.cs" />
+    <Compile Include="Swap Two Numbers - Copy.cs" />
+    <Compile Include="Largest and Lowest of Three Integers.cs" />
+    <Compile Include="Pro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
